@@ -2,7 +2,7 @@
   "name": "Wrapped Bitcoin (Devnet)",
   "symbol": "WBTC",
   "description": "Mock Bitcoin token for DCA testing on Solana devnet",
-  "image": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjAwIiBoZWlnaHQ9IjIwMCIgdmlld0JveD0iMCAwIDIwMCAyMDAiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CiAgPGNpcmNsZSBjeD0iMTAwIiBjeT0iMTAwIiByPSIxMDAiIGZpbGw9IiNGNzkzMUIiLz4KICA8dGV4dCB4PSI1MCUiIHk9IjUwJSIgZm9udC1mYW1pbHk9IkFyaWFsLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjcwIiBmb250LXdlaWdodD0iYm9sZCIgZmlsbD0id2hpdGUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGR5PSIuM2VtIj7igoI8L3RleHQ+Cjwvc3ZnPg==",
+  "image": "https://raw.githubusercontent.com/webbsterslab/devnet-token-metadata/main/images/wbtc.svg",
   "decimals": 8,
   "external_url": "https://dcatodca.com",
   "attributes": [
