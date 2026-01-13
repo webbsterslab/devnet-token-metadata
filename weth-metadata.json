@@ -2,7 +2,7 @@
   "name": "Wrapped Ethereum (Devnet)",
   "symbol": "WETH",
   "description": "Mock Ethereum token for DCA testing on Solana devnet",
-  "image": "https://raw.githubusercontent.com/webbsterslab/devnet-token-metadata/main/images/weth.svg",
+  "image": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7vfCXTUXx5WJV5JADk17DUJ4ksgau7utNKj4b963voxs/logo.png",
   "decimals": 8,
   "external_url": "https://dcatodca.com",
   "network": "devnet",
