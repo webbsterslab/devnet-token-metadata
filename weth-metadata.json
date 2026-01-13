@@ -5,6 +5,9 @@
   "image": "https://raw.githubusercontent.com/webbsterslab/devnet-token-metadata/main/images/weth.svg",
   "decimals": 8,
   "external_url": "https://dcatodca.com",
+  "network": "devnet",
+  "devnet_mint": "4jVKVCiLU2ERrFoxSxvJp7GzJcJyntAp5r4RadWRcp8E",
+  "mainnet_mint": "7vfCXTUXx5WJV5JADk17DUJ4ksgau7utNKj4b963voxs",
   "attributes": [
     {
       "trait_type": "Token Type",
@@ -13,6 +16,10 @@
     {
       "trait_type": "Network",
       "value": "Solana Devnet"
+    },
+    {
+      "trait_type": "Mainnet Equivalent",
+      "value": "7vfCXTUXx5WJV5JADk17DUJ4ksgau7utNKj4b963voxs"
     },
     {
       "trait_type": "Purpose",
