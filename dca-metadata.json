@@ -1,0 +1,29 @@
+{
+  "name": "DCA (Devnet)",
+  "symbol": "DCA",
+  "description": "Mock DCA token for testing dollar cost averaging accumulation on Solana devnet",
+  "image": "https://raw.githubusercontent.com/webbsterslab/devnet-token-metadata/main/images/dca-logo.png",
+  "decimals": 9,
+  "external_url": "https://dcatodca.com",
+  "network": "devnet",
+  "devnet_mint": "HSdAkVqzddExoocxTfMjGNihByG2srRVvaWCZ6NQNcEG",
+  "mainnet_mint": "AXQyzYRdk6ebp3VdwSNNNFR5Ssm5rMVTP84EEg98pump",
+  "attributes": [
+    {
+      "trait_type": "Token Type",
+      "value": "Mock Meme"
+    },
+    {
+      "trait_type": "Network",
+      "value": "Solana Devnet"
+    },
+    {
+      "trait_type": "Mainnet Equivalent",
+      "value": "AXQyzYRdk6ebp3VdwSNNNFR5Ssm5rMVTP84EEg98pump"
+    },
+    {
+      "trait_type": "Purpose",
+      "value": "DCA Accumulation Testing"
+    }
+  ]
+}

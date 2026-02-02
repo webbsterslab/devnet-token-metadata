@@ -1,0 +1,29 @@
+{
+  "name": "Wrapped SOL (Devnet)",
+  "symbol": "WSOL",
+  "description": "Mock wrapped SOL for DCA testing - preserves real devnet SOL allocation",
+  "image": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/So11111111111111111111111111111111111111112/logo.png",
+  "decimals": 9,
+  "external_url": "https://dcatodca.com",
+  "network": "devnet",
+  "devnet_mint": "57ZrK3QTViqT12phBbhHbM26djRhaUUjtcMiAX2D3fR2",
+  "mainnet_mint": "So11111111111111111111111111111111111111112",
+  "attributes": [
+    {
+      "trait_type": "Token Type",
+      "value": "Mock Native"
+    },
+    {
+      "trait_type": "Network",
+      "value": "Solana Devnet"
+    },
+    {
+      "trait_type": "Mainnet Equivalent",
+      "value": "So11111111111111111111111111111111111111112"
+    },
+    {
+      "trait_type": "Purpose",
+      "value": "Faucet Distribution & Swaps"
+    }
+  ]
+}

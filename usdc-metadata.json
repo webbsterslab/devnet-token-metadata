@@ -1,0 +1,29 @@
+{
+  "name": "USD Coin (Devnet)",
+  "symbol": "USDC",
+  "description": "Mock USDC stablecoin for DCA testing on Solana devnet",
+  "image": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v/logo.png",
+  "decimals": 6,
+  "external_url": "https://dcatodca.com",
+  "network": "devnet",
+  "devnet_mint": "GwfyUfzLbFrtki2C2qUmdjmko3VAzbVoXLp99cJp4QNN",
+  "mainnet_mint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+  "attributes": [
+    {
+      "trait_type": "Token Type",
+      "value": "Mock Stablecoin"
+    },
+    {
+      "trait_type": "Network",
+      "value": "Solana Devnet"
+    },
+    {
+      "trait_type": "Mainnet Equivalent",
+      "value": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
+    },
+    {
+      "trait_type": "Purpose",
+      "value": "DCA Testing Input"
+    }
+  ]
+}
